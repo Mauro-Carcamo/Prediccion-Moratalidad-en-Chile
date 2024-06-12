@@ -1,4 +1,7 @@
 # Prediccion-Moratalidad-en-Chile
+
+[Modelo de Mortalidad en Chile](https://huggingface.co/spaces/MauroCarcamo/modelo_mortalidad_chile)
+
 Exploración y análisis de la mortalidad en Chile (1997-2019), seguido por la creación de una aplicación de predicción utilizando Random Forest Regression. El proyecto revela tendencias históricas y ofrece una herramienta interactiva para predecir muertes según edad, sexo, año y enfermedad.
 
 # Análisis de Enfermedades y Causas de Muerte en Chile (1997-2019)
